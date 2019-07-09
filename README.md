@@ -38,7 +38,13 @@
 
 ### （一）文件结构
 
-整个项目由5个python文件构成，其中，get_data.py包含获取数据的函数和valuecode字典；plot.py包含绘图的类与方法；database.py包含数据库操作的类和方法；data.py为获取数据的脚本；plotting.py为绘图的脚本。爬取到的数据将保存在./data/data.db中，绘制的图也将保存在./data中。
+整个项目由5个python文件构成，其中，
+get_data.py包含获取数据的函数和valuecode字典；
+plot.py包含绘图的类与方法；
+database.py包含数据库操作的类和方法；
+data.py为获取数据的脚本；
+plotting.py为绘图的脚本。
+爬取到的数据将保存在./data/data.db中，绘制的图也将保存在./data中。
 
 ### （二）用到的库
 
